@@ -16,6 +16,9 @@ public class Ejemplo_GitHat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola mundo");
+        System.out.println("Ya salio");
+        System.out.println("Ajua");
     }
     
 }
